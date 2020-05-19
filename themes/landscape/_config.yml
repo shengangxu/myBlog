@@ -1,15 +1,14 @@
 # Header
 menu:
   Home: /
-  Archives: /archives
-rss: /atom.xml
+rss: 
 
 # Content
 excerpt_link: Read More
 fancybox: true
 
 # Sidebar
-sidebar: right
+sidebar: left
 widgets:
 - category
 - tag
